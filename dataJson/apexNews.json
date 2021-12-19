@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "image":"https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/holiday-gift-guide-2021/holiday-2020-gift-guide-16x9-v2.jpg.adapt.crop16x9.431p.jpg",
+            "title":"Guia de Presentes de Fim de Ano de Apex Legends 2021",
+            "desc":"Precisa de presentes lendários para aqueles que você ama? O Guia de Presentes de Apex Legends deste ano está aqui para ajudar. ",
+            "link":"https://www.ea.com/pt-br/games/apex-legends/news/holiday-gift-guide-2021"
+        },
+        {
+            "image":"https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/raiders-collection-event/apex-raiders-event-3840x2160-master16x9.jpg.adapt.crop16x9.431p.jpg",
+            "title":"Jogue o Expresso Invernal no Evento de Coleção Invasões ",
+            "desc":"De 7 a 21 de dezembro, teremos o retorno do Expresso Invernal, itens cosméticos limitados e a estreia da herança da Wattson!",
+            "link":"https://www.ea.com/pt-br/games/apex-legends/news/raiders-collection-event"
+        },
+        {
+            "image":"https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-final-preview-1.png.adapt.crop16x9.431p.png",
+            "title":"Novas linhas de roupas lendárias no Apex Market",
+            "desc":"O Mercado traz uma nova linha de roupas lendárias para o Apex",
+            "link":"https://www.ea.com/pt-br/games/apex-legends/news/market-market-market"
+        },
+        {
+            "image":"https://media.contentapi.ea.com/content/dam/apex-legends/common/prime-gaming-ash-thumbnail-500kb.jpg.adapt.crop16x9.431p.jpg",
+            "title":"Rasgue o espaço com este Conjunto da Ash do Prime Gaming",
+            "desc":"Receba grátis o visual Ash Lâmina Venenosa e muito mais com sua assinatura do Prime Gaming de 5 de novembro a 16 de dezembro..",
+            "link":"https://www.ea.com/pt-br/games/apex-legends/news/prime-gaming-bundle-ash-venom-blade"
+        },
+        {
+            "image":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/10/apex-escape-primary-art-1920x1080-nologo.jpg.adapt.crop16x9.431p.jpg",
+            "title":"Notas do patch de Apex Legends: Fuga",
+            "desc":"Confira as notas do patch completas para saber o que há na atualização Fuga.",
+            "link":"https://www.ea.com/pt-br/games/apex-legends/news/escape-patch-notes"
+        },
+        {
+            "image":"https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/storm-point/map-blog-thumbnail.png.adapt.crop16x9.431p.png",
+            "title":"Boas-vindas à Zona de Tormenta",
+            "desc":"Confira o mais novo mapa em Apex Legends",
+            "link":"https://www.ea.com/pt-br/games/apex-legends/news/stormpoint-map-blog"
+        }
+    ]
+}
